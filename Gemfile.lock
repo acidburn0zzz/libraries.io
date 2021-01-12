@@ -327,7 +327,7 @@ GEM
       mime-types (~> 3.0)
       multi_xml (>= 0.5.2)
     httpclient (2.8.3)
-    i18n (1.5.3)
+    i18n (1.8.7)
       concurrent-ruby (~> 1.0)
     indefinite_article (0.2.4)
       activesupport
@@ -374,7 +374,7 @@ GEM
     mimemagic (0.3.3)
     mini_mime (1.0.1)
     mini_portile2 (2.4.0)
-    minitest (5.11.3)
+    minitest (5.14.3)
     mize (0.3.5)
       protocol
     msgpack (1.2.6)
@@ -428,8 +428,8 @@ GEM
     parallel (1.13.0)
     pg (1.1.4)
     pg_query (1.1.0)
-    pghero (2.2.0)
-      activerecord
+    pghero (2.7.0)
+      activerecord (>= 5)
     pictogram (2.0.10)
       railties
     poltergeist (1.17.0)
@@ -633,7 +633,7 @@ GEM
     turbolinks-source (5.2.0)
     typhoeus (1.3.1)
       ethon (>= 0.9.0)
-    tzinfo (1.2.5)
+    tzinfo (1.2.9)
       thread_safe (~> 0.1)
     uber (0.1.0)
     uglifier (4.1.20)
