@@ -146,7 +146,7 @@ GEM
     case_transform (0.2)
       activesupport
     charlock_holmes (0.7.6)
-    chartkick (3.0.2)
+    chartkick (3.4.0)
     citrus (3.0.2)
     cliver (0.3.2)
     coderay (1.1.2)
