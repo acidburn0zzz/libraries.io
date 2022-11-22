@@ -150,7 +150,7 @@ GEM
     creole (0.5.0)
     css_parser (1.7.0)
       addressable
-    dalli (2.7.10)
+    dalli (3.2.3)
     database_cleaner (1.7.0)
     deb_control (0.0.1)
     debug_inspector (0.0.3)
