@@ -36,7 +36,7 @@ GIT
 GEM
   remote: https://rubygems.org/
   specs:
-    RedCloth (4.3.2)
+    RedCloth (4.3.3)
     actioncable (5.2.5)
       actionpack (= 5.2.5)
       nio4r (~> 2.0)
